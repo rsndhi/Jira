@@ -33,4 +33,4 @@ echo "processes:"
 ps auxf --width=200
 echo "--------------------"
 echo "vmstat:"
-vmstat 1 5 15
+vmstat 1 5 
